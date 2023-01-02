@@ -1,7 +1,5 @@
 /*
 Name: Harguntas Singh Benipal
-Teacher Name: Mr. Bains
-Course : ICS4U0-A
 Date: November 27, 2022
 Description: This program has a menu system that asks the client if they want to search for a movie in the IMDB database, search through the existing file or exit. If number 1, it will store this information entered
 in the "movielist2.txt" file and in a JTable. If number 2, it will then ask the user how they want to search for the movie and if it is in the file, it will show it in another JTable. If number 3, it will exit the program.
